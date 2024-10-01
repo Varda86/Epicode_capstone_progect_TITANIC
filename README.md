@@ -12,6 +12,6 @@ This project is based on a dataset in CSV format, found in the website "koggle.c
 To clean and analyze the dataset I have used Python, especially Pandas library. I've also made some very simple charts using Matplotlib library.
 Then I've made a Report to display what I've discovered thanks to my analysis. I've decided do make the same report twice, using two different softwares: Google LookerSdutio and Power B.I.. I've used Looker because it's simple to use and open source, so there is no need to buy a license to visualize my report. I've used Power B.I. because it's much morepowerful, expecially thanks to the Dax and the data processing (Looker gave me so many problems even to do some small modification to the dataset, or to add a simple calculated field).
 
-In this repository there are: the CSV file containing the Dataset; a Jupiter file containing my Data Analysis and at the end of it I've inserted the links to open the two reports.
+In this repository there are: the CSV file containing the Dataset; a Jupyter file containing my Data Analysis and at the end of it I've inserted the links to open the two reports.
 
 HAVE FUN!!
